@@ -168,7 +168,7 @@ Poverty, AIDS Graphs
 Overview of the upcoming Country
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[HIV/AIDS and Poverty (PDF)](http://www.arabstates.undp.org/content/dam/aplaws/publication/en/publications/hiv-aids/poverty-and-hiv-aids-in-sub-saharan-africa/87.pdf)  
+[HIV/AIDS and Poverty (PDF)](http://www.arabstates.undp.org/content/dam/aplaws/publication/en/publications/hiv-aids/poverty-and-hiv-aids-in-sub-saharan-africa/87.pdf)  
   
 Influence of AIDS on Poverty  
   
